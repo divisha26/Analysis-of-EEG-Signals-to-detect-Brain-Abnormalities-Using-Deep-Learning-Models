@@ -49,5 +49,3 @@ to assess their performance in detecting brain abnormalities from EEG signals.
 This project showcases deep learning's efficacy in swiftly detecting brain abnormalities from
 EEG signals, aiding healthcare professionals by automating analysis and prioritizing the cA
 coefficient for timely interventions in neurological emergencies.
-
-![Uploading Screenshot 2024-05-01 000427.png…]()
